@@ -84,15 +84,10 @@
   }
   .hero h1{
     font-size:clamp(40px, 7vw, 74px);
-    margin:0 0 10px;
+    margin:0 0 46px;
     color:var(--espresso);
     font-weight:600;
     line-height:1.02;
-  }
-  .hero p.tag{
-    font-size:16px; color:var(--coffee); opacity:0.75;
-    margin:0 0 46px;
-    letter-spacing:0.02em;
   }
 
   /* signature strip */

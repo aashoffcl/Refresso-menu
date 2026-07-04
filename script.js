@@ -49,7 +49,7 @@ const menu = {
 };
 
 const signature = [
-  {key:"pistachio", icon:"🌰", en:"Pistachio", ar:"بيستاشيو", price:"15/18"},
+  {key:"pistachio", icon:"☕", en:"Pistachio", ar:"بيستاشيو", price:"15/18"},
   {key:"spanish", icon:"☕", en:"Spanish Latte", ar:"لاتيه إسباني", price:"15/18"},
   {key:"mocha", icon:"🍫", en:"Mocha Latte", ar:"موكا لاتيه", price:"13/16"},
   {key:"v60", icon:"⏳", en:"V60", ar:"في 60", price:"14/17"}
